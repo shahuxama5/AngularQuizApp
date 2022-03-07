@@ -1,0 +1,412 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the hero in the 80s animated video game 'Dragon's Lair'?",
+    "options": [
+      {
+          "text": "Dirk the Daring",
+          "correct": true
+      },
+      {
+          "text": "Arthur"
+      },
+      {
+          "text": "Sir Toby Belch"
+      },
+      {
+          "text": "Guy of Gisbourne"
+      }
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the scientific name for modern day humans?",
+    "options": [
+      {
+          "text": "Homo Ergaster"
+      },
+      {
+          "text": "Homo Sapiens",
+          "correct": true
+      },
+      {
+          "text": "Homo Neanderthalensis"
+      },
+      {
+          "text": "Homo Erectus"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Ron Weasley's middle name?",
+    "options": [
+      {
+          "text": "Arthur"
+      },
+      {
+          "text": "John"
+      },
+      {
+          "text": "Bilius",
+          "correct": true
+      },
+      {
+          "text": "Dominic"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the creator of the comic series \"The Walking Dead\"?",
+    "correct_answer": "",
+    "incorrect_answers": [
+      "",
+      "",
+      ""
+    ],
+    "options": [
+      {
+          "text": "Stan Lee"
+      },
+      {
+          "text": "Malcolm Wheeler-Nicholson"
+      },
+      {
+          "text": "Robert Crumb"
+      },
+      {
+          "text": "Robert Kirkman",
+          "correct": true
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Board Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+    "options": [
+      {
+          "text": "Water Works"
+      },
+      {
+          "text": "Chance"
+      },
+      {
+          "text": "Electric Company",
+          "correct": true
+      },
+      {
+          "text": "Community Chest"
+      }
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Jamaica?",
+    "options": [
+      {
+          "text": "Rio de Janeiro"
+      },
+      {
+          "text": "Kingston",
+          "correct": true
+      },
+      {
+          "text": "Dar es Salaam"
+      },
+      {
+          "text": "Kano"
+      }
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Jamaica recieve its independence from England?",
+    "correct_answer": "",
+    "incorrect_answers": ["", "", ""],
+    "options": [
+      {
+          "text": "1962",
+          "correct": true
+      },
+      {
+          "text": "1492"
+      },
+      {
+          "text": "1963"
+      },
+      {
+          "text": "1987"
+      }
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Kangaroos keep food in their pouches next to their children.",
+    "options": [
+      {
+          "text": "True"
+      },
+      {
+          "text": "False",
+          "correct": true
+      }
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2013 how much money was lost by Nigerian scams?",
+    "options": [
+      {
+          "text": "$95 Million"
+      },
+      {
+          "text": "$12.7 Billion",
+          "correct": true
+      },
+      {
+          "text": "$956 Million"
+      },
+      {
+          "text": "$2.7 Billion"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In World of Warcraft lore, who organized the creation of the Paladins?",
+    "options": [
+      {
+          "text": "Uther the Lightbringer"
+      },
+      {
+          "text": "Alexandros Mograine"
+      },
+      {
+          "text": "Alonsus Faol",
+          "correct": true
+      },
+      {
+          "text": "Sargeras, The Daemon Lord"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In the game \"Subnautica\", a \"Cave Crawler\" will attack you.",
+    "options": [
+      {
+          "text": "True",
+          "correct": true
+      },
+      {
+          "text": "False"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the device that allows for infinite energy in the anime \"Dimension W\"?",
+    "options": [
+      {
+          "text": "Wires"
+      },
+      {
+          "text": "Collectors"
+      },
+      {
+          "text": "Tesla"
+      },
+      {
+          "text": "Coils",
+          "correct": true
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of Cream the Rabbit's mom in the \"Sonic the Hedgehog\" series?",
+    "options": [
+      {
+          "text": "Peach"
+      },
+      {
+          "text": "Strawberry"
+      },
+      {
+          "text": "Vanilla",
+          "correct": true
+      },
+      {
+          "text": "Mint"
+      }
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "These two countries held a commonwealth from the 16th to 18th century.",
+    "options": [
+      {
+          "text": "Hutu and Rwanda"
+      },
+      {
+          "text": "Poland and Lithuania",
+          "correct": true
+      },
+      {
+          "text": "North Korea and South Korea"
+      },
+      {
+          "text": "Bangladesh and Bhutan"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks?",
+    "options": [
+      {
+          "text": "George Clooney",
+          "correct": true
+      },
+      {
+          "text": "Matthew Perry"
+      },
+      {
+          "text": "Dennis Miller"
+      },
+      {
+          "text": "Pierce Brosnan"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "From which album is the Gorillaz song, \"On Melancholy Hill\" featured in?",
+    "options": [
+      {
+          "text": "Demon Days"
+      },
+      {
+          "text": "Plastic Beach",
+          "correct": true
+      },
+      {
+          "text": "Humanz"
+      },
+      {
+          "text": "The Fall"
+      }
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+    "options": [
+      {
+          "text": "True"
+      },
+      {
+          "text": "False",
+          "correct": true
+      }
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+    "options": [
+      {
+          "text": "No Mercy",
+          "correct": true
+      },
+      {
+          "text": "Subway Sprint"
+      },
+      {
+          "text": "Hospital Havoc"
+      },
+      {
+          "text": "Blood Harvest"
+      }
+  ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+    "options": [
+      {
+          "text": "India"
+      },
+      {
+          "text": "Hong Kong",
+          "correct": true
+      },
+      {
+          "text": "Australia"
+      },
+      {
+          "text": "Ireland"
+      }
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+    "options": [
+      {
+          "text": "50"
+      },
+      {
+          "text": "60"
+      },
+      {
+          "text": "55",
+          "correct": true
+      },
+      {
+          "text": "54"
+      }
+    ]
+  }
+]
