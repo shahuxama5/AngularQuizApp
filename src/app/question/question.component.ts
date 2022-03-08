@@ -100,8 +100,7 @@ export class QuestionComponent implements OnInit {
   }
 
   getMinProgressPercentage () {
-    // this.minProgress = (Number(this.maxProgress) - Number(this.correctProgress)).toString();
-    this.minProgress = ( (this.correctAnswer /this.questionList.length)*100 ).toString();
+     this.minProgress = ( (this.correctAnswer /this.questionList.length)*100 ).toString();
     return this.minProgress;
   }
 
