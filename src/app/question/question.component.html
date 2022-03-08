@@ -3,9 +3,12 @@
       <div class="d-flex justify-content-between p-3">
           <div class="quiz-header">
               <h2 style="font-family: cursive;">Welcome {{ name }}</h2>
-              <div>
+              <div *ngIf="currentQuestion < 20">
                 <h3 style="font-family: cursive;">Question {{ currentQuestion+1 }} out of {{ questionList.length }}</h3>
             </div>
+            <div *ngIf="currentQuestion >= 20">
+              <h3 style="font-family: cursive;">Question {{ currentQuestion }} out of {{ questionList.length }}</h3>
+          </div>
             <div >
               <h5 style="font-family: cursive;">{{ questionList[currentQuestion]?.category }}</h5>
           </div>

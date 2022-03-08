@@ -90,7 +90,7 @@ export class QuestionComponent implements OnInit {
   }
 
   getCurrentProgressPercentage () {
-    this.correctProgress = ( (this.correctAnswer/this.currentQuestion)*100 ).toString();
+    this.correctProgress = (Math.round((this.correctAnswer/this.currentQuestion)*100) ).toString();
     return this.correctProgress;
   }
 
